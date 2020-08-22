@@ -1,6 +1,5 @@
 ### </VANDA COSTA>
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/vandsc)](https://github.com/vandsc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandsc/)](https://www.linkedin.com/in/vandsc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandads915@gmail.com)](mailto:vandads915@gmail.com)
 
